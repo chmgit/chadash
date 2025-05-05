@@ -2,3 +2,6 @@ body{
     background-color:blueviolet;
     direction: rtl;
 }
+ul{
+    background-color: crimson;
+}
